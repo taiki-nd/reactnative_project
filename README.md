@@ -4,6 +4,7 @@
 
 ### 環境構築
 * https://tegralsblog.com/react-native-mac-development-environment/
+* https://zenn.dev/nekoniki/articles/f84d73660c06f2600d38
 
 ### シミュレーターの作成
 * xcode: https://ticklecode.com/simulatoradd/
